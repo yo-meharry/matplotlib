@@ -1,4 +1,4 @@
-##Matplotlib Learning & Practice
+## Matplotlib Learning & Practice
 
 This repository contains my learning journey and hands-on practice with Matplotlib, a powerful Python library used for data visualization.
 
